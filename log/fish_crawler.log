@@ -1,0 +1,4 @@
+05-24 14:54:23 [INFO] [com.zj.fishcrawler.Crawler] - 共需要插入3529条数据
+05-24 14:54:23 [INFO] [com.zj.fishcrawler.Crawler] - 开始拼接SQL
+05-24 14:54:25 [INFO] [com.zj.fishcrawler.Crawler] - 开始执行插入
+05-24 14:54:25 [INFO] [com.zj.fishcrawler.Crawler] - 插入成功, 花费: 0.31秒
